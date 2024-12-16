@@ -1,3 +1,6 @@
+from importlib.resources import as_file
+
+
 def numbers(s):
     name=set(s)
 
@@ -12,7 +15,8 @@ def numbers(s):
 
 
 
-print(numbers([5, 3, 4, 5, 5, 3, 7]))def numbers(s):
+print(numbers([5, 3, 4, 5, 5, 3, 7]))
+def numbers(s):
     name=set(s)
 
 
@@ -26,4 +30,14 @@ print(numbers([5, 3, 4, 5, 5, 3, 7]))def numbers(s):
 
 
 
-print(numbers([5, 3, 4, 5, 5, 3, 7]))d 
+print(numbers([5, 3, 4, 5, 5, 3, 7]))
+
+
+
+
+
+
+
+
+d kjfldsk;jfsfdskjfal
+a fdskfj ;dslj kfds as_file(df aa)
